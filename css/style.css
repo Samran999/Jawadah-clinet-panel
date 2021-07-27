@@ -4908,7 +4908,6 @@ span.right-cm {
 }
 
 .bookmark_card .bookmark_collapse::after {
-  content: "\f0d7";
   font-size: 14px;
   font-family: "FontAwesome";
   float: right;
@@ -4917,7 +4916,6 @@ span.right-cm {
 }
 
 .bookmark_card .bookmark_collapse.collapsed::after {
-  content: "\f0da";
 }
 
 .bookmark_card .card-body {
